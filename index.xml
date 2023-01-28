@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drew Morris</title>
-    <link>https://drew-morris.github.io/</link>
+    <link>http://Drew-Morris.github.io/</link>
     <description>Recent content on Drew Morris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jan 2023 16:20:29 -0700</lastBuildDate><atom:link href="https://drew-morris.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 22:55:54 -0700</lastBuildDate><atom:link href="http://Drew-Morris.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
-      <link>https://drew-morris.github.io/posts/helloworld/</link>
-      <pubDate>Fri, 27 Jan 2023 16:20:29 -0700</pubDate>
+      <link>http://Drew-Morris.github.io/posts/helloworld/</link>
+      <pubDate>Fri, 27 Jan 2023 22:55:54 -0700</pubDate>
       
-      <guid>https://drew-morris.github.io/posts/helloworld/</guid>
+      <guid>http://Drew-Morris.github.io/posts/helloworld/</guid>
       <description></description>
       <content></content>
     </item>

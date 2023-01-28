@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Drew Morris</title>
-    <link>https://drew-morris.github.io/categories/</link>
+    <link>http://Drew-Morris.github.io/categories/</link>
     <description>Recent content in Categories on Drew Morris</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://drew-morris.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://Drew-Morris.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
